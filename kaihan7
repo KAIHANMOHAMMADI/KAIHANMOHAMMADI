@@ -1,0 +1,5 @@
+git clon https://github.com/KAIHANMOHAMMADI/kaihan7.git
+ls
+cd kaihan7
+ls
+python kaihan7.py
