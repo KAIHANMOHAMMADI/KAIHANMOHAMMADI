@@ -1,0 +1,5 @@
+rm-r kaihan18
+git clone https://github.com/KAIHANMOHAMMADI/kaihan18.git
+ls
+cd kaihan18
+python kaihan18.pyc
